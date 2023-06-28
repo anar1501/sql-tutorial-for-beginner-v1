@@ -1,0 +1,35 @@
+Lecture-1
+1)sub query
+Lecture-1
+
+Lecture-2
+1)JOIN operators
+Lecture-2
+
+Lecture-3
+1)JOIN operators in detail
+Lecture-3
+
+Lecture-5
+1)EXISTS
+2)NOT EXISTS
+Lecture-5
+
+Lecture-6
+1)SELF JOIN
+Lecture-6
+
+Lecture-7
+1)CROSS JOIN
+2)NATURAL JOIN
+3)USING()
+Lecture-7
+
+Lecture-8
+1)EQUI JOIN
+2)NON EQUI JOIN
+Lecture-8
+
+Lecture-9
+1)CASE STATEMENTS
+Lecture-9

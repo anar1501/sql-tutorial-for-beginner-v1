@@ -1,0 +1,25 @@
+Lecture-1
+1)SRF
+2)DUAL table
+Lecture-1
+
+Lecture-2
+1)SRF with WHERE clause
+Lecture-2
+
+Lecture-3
+1)Number based SRF
+Lecture-3
+
+Lecture-4
+1)Converting functions
+Lecture-4
+
+Lecture-6
+1)NVL FUNCTION
+2)NULLIF FUNCTION
+Lecture-6
+
+
+
+
